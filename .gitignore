@@ -1,0 +1,13 @@
+# === GameMaker (fichiers régénérés / locaux) ===
+/cache/
+/temp/
+/tmp/
+/output/
+/builds/
+*.yydebug
+*.resource_order
+
+# === Junk OS ===
+.DS_Store
+Thumbs.db
+desktop.ini
